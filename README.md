@@ -1,6 +1,6 @@
 # PacBio ccs phasing and methylation 
 
 
-Helpful methods [here]
+Helpful methods here:
 
-http://efaidnbmnnnibpcajpcglclefindmkaj/https://www.pacb.com/wp-content/uploads/AGBT-2022-extracting-CpG-methylation-Portik-poster.pdf](https://www.pacb.com/wp-content/uploads/AGBT-2022-extracting-CpG-methylation-Portik-poster.pdf
+chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.pacb.com/wp-content/uploads/AGBT-2022-extracting-CpG-methylation-Portik-poster.pdf
